@@ -101,6 +101,47 @@ especially for families and elderly people. However, privacy, security and high
 costs remain challenges that need to be improved for the future.  ​
 
 Refrences: 
+Business viewpoint on the evolution of smart home systems sources for reference: (Dominyka)
+* Roots Analysis: https://www.rootsanalysis.com/smart-home-market
+* MarketsandMarkets (global, 11.8% CAGR): https://www.marketsandmarkets.com/Market-Reports/smart-homes-and-home-automation-market-121.html
+* MarketsandMarkets (6.4% CAGR): https://www.marketsandmarkets.com/ResearchInsight/smart-home-market-research.asp
+* Fortune Business Insights (via HackMD summary): https://hackmd.io/@anvitoshniwal09/rJmcEYFIGg
+* Statista: https://www.statista.com/outlook/cmo/smart-home/worldwide?currency=CNY
+* IDC, 2022 decline: https://www.idc.com/resource-center/press-releases/shipments-of-smart-home-devices-fell-in-2022-but-a-return-to-growth-is-expected-in-2023-according-to-idc/
+* IDC, 2024 outlook and 2028 forecast: https://www.idc.com/resource-center/press-releases/smart-home-market-on-track-for-rebound-thanks-to-emerging-regions-according-to-idc/
+* IDC, smart speaker commentary: https://ecommercenews.com.au/story/smart-home-market-struggling-idc-releases-quarterly-report
+* Parks Associates penetration (via aggregator): https://sqmagazine.co.uk/statistics/smart-home
+* IDC China 2026: https://www.idc.com/?p=106509 and https://www.idc.com/resource-center/press-releases/idc%ef%bc%9a%e6%94%bf%e7%ad%96%e3%80%81ai%e4%b8%8e%e5%9c%ba%e6%99%af%e5%85%b1%e6%8c%af-2026%e5%b9%b4%e4%b8%ad%e5%9b%bd%e6%99%ba%e8%83%bd%e5%ae%b6%e5%b1%85%e5%b8%82%e5%9c%ba%e5%8d%81/
+* Memory and tariff pressure: https://sourceability.com/post/smartphone-shipments-drop-as-memory-and-tariffs-squeeze-consumer-tech
+Standards
+* ABI Research, Matter 1.6: https://www.abiresearch.com/market-research/insight/7788009-matter-16-signals-a-shift-from-device-inte
+* ABI Research, Matter 1.5: https://www.abiresearch.com/market-research/insight/7787351-the-release-of-matter-15-specifications-ma
+* ABI Research, IKEA: https://www.abiresearch.com/market-research/insight/7786854-a-big-boost-for-matter-ikea-announces-plan
+* TechInsights, Matter 1.5: https://www.techinsights.com/ja/node/60761
+* CSA and OpenADR liaison: https://www.finanznachrichten.de/nachrichten-2026-05/68458142-connectivity-standards-alliance-and-openadr-alliance-announce-liaison-agreement-to-collaborate-on-grid-connected-energy-management-200.htm
+* NDSS 2026 poster on Matter and the CRA: https://www.ndss-symposium.org/wp-content/uploads/ndss26-poster-76.pdf
+AI assistants and business models
+* GeekWire on Alexa+ and Prime: https://www.geekwire.com/2026/amazon-rolls-out-alexa-to-all-u-s-customers-making-its-ai-assistant-free-for-prime-members/
+* Reviewed on Alexa+: https://www.reviewed.com/smarthome/features/what-is-alexa-plus
+* HWBusters on Alexa+ and Gemini subscriptions: https://hwbusters.com/news/amazon-and-google-bet-big-on-ai-to-revive-the-smart-home/
+* Business Standard on AI agents: https://www.business-standard.com/technology/tech-news/smart-home-interface-ai-agents-physical-world-126091700840_1.html
+* Google Gemini for Home help page: https://support.google.com/googlenest/answer/16613534
+Energy
+* ACEEE 2026 field study: https://www.aceee.org/sites/default/files/proceedings/ssb26/pdfs/323_0959_1434_001151.pdf
+* Berkeley Lab / eScholarship on protocols: https://escholarship.org/content/qt3t22m5pm/qt3t22m5pm.pdf
+* Schneider Electric, home of 2030: https://blog.se.com/homes/2026/06/19/the-home-of-2030-intelligent-electrified-and-self-managing/
+* BCG on flexible energy: https://www.bcg.com/ja-jp/publications/2023/empowering-homes-with-flexible-energy-solutions
+Regulation
+* EU Commission on the CRA: https://commission.europa.eu/news-and-media/news/safer-and-more-secure-digital-products-2026-09-11_pt
+* TechCrunch on the CRA: https://techcrunch.com/2024/12/10/eu-cybersecurity-rules-for-smart-devices-enter-into-force
+* Gowling WLG on PSTI, CRA, Data Act and PLD: https://gowlingwlg.com/insights-resources/articles/2025/product-cybersecurity-how-to-comply-with-uk-and-eu-law
+* ISMS.online on PSTI versus the CRA: https://www.isms.online/cyber-security/how-to-comply-with-the-new-eu-cyber-resilience-act/
+Lifecycle risk
+* Irish Times: https://www.irishtimes.com/technology/2026/01/29/smart-home-becomes-a-harder-sell-when-device-makers-arbitrarily-pull-the-plug
+* Consumer Reports on unsupported IoT: https://innovation.consumerreports.org/the-last-hurrah-how-to-handle-and-harden-unsupported-iot-devices/
+* Digital Trends on Nest: https://digitaltrends.com/home/googles-nest-thermostat-cull-warning-all-smart-home-users
+* Hackaday on Insteon: https://hackaday.com/2022/04/25/insteon-abruptly-shuts-down-users-left-smart-home-less
+* FTC letter on Revolv: https://business.ftc.gov/system/files/documents/closing_letters/nid/160707nestrevolvletter.pdf
 
 
 
