@@ -27,16 +27,15 @@ In this research project we'll be focusing on middle eastern developments;
 we'll discuss over the societal and business side of things, the history of developments
 and ethical aspects too.​
 
+# first viewpoint
 
 First Viewpoint Analysis - Societal
 
 Smart homes have become an important part of modern society.
-People can control many things in their homes using their smartphones or by giving voice commands.
-The development of smart homes has changed the way people live, work, and manage their daily routine. ​
-They are also very helpful for elderly people and people with disabilities because
-they can manage and certain things at home without needing as much as help from others.​
-Overall, smart homes have a positive impact on society but there are still some challenges that need to be improved.
-
+People can control many things in their homes using their smartphones or by 
+giving voice commands. 
+The development of smarthhouses has changed the way people live, work and manage their daily routine. 
+They are also very helpful for elderly people and people with disabilities because they can manage certain thinhs at home without needing as much help from others  
 
 Second Viewpoint Analysis - Business
 
