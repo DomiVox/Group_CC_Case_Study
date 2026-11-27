@@ -99,6 +99,7 @@ Ethical Improvements of  Smart Homes (hi)
 
 
 
+
  
 
 Although smart homes provide a range of benefits, there is still a lot of room for advancements in their technology regarding security, customer privacy, accessibility, and much more.
