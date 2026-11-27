@@ -102,7 +102,8 @@ Protecting a smart home shouldn't in any way require a degree in computer scienc
 Staying safe online shouldn't be entirely on the user, manufacturers should be upfront about the risks and should continue to provide security updates to their products for a reasonable period of time. Network safety is about much more than just stopping cyber attacks. It's about protecting people's privacy, their security and their peace of mind. Smart home technology is supposed to make life easier, not to make peoples life harder.​
 
 
-Physical safety​
+Physical safety
+​
 Smart home devices can be a good thing they can provide safety and security but they can also be an issue if they fail. A smart lock can malfunction and leave you locked out of your own house. A faulty smoke detector could fail to give you an alarm in the case of a fire. Even a fairly simple piece of kit can be a hazard if it's not installed properly or if it's not maintained.​
 
 As they're going to be using the devices every day it makes perfect sense to have a backup. A physical key and/or knowing how to use the manual override would be useful in the event of the device going dead or losing its internet connection. It's absolutely critical that everyone in the house knows how to operate the key equipment, especially in an emergency.​
