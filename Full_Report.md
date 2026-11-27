@@ -85,21 +85,19 @@ Privacy ​
 Smart home devices collect personal information about users, including their daily routines,
 activities and personal preferences. This creates privacy concerns, as users may not know 
 exactly what information is being collected, stored or shared with other companies.​
+
 Network Security​
 Smart home devices are connected to the internet, which can make them vulnerable to
 hackers and cyberattacks. If someone gains unauthorized access to these devices, they
 could most likely access the private information or take control of certain connected system.​
+
 Physical safety​
 Smart home technology can create a physical safety risks if the device  are hacked,
 damaged or malfunction. For example, problems with smart locks, security cameras or
 heating systems could potentially put houseowners and their families in danger.
 
  
-Ethical Improvements of  Smart Homes (hi)
-
-
-
- 
+Ethical Improvements of  Smart Homes 
 
 Although smart homes provide a range of benefits, there is still a lot of room for advancements in their technology regarding security, customer privacy, accessibility, and much more.
 With the rapid evolution of smart homes- their future advancements should not only focus on technological upgrade, 
