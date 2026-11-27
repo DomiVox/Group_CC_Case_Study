@@ -1,31 +1,27 @@
 The Evolution of Smart Homes
 
-Introduction
+# Introduction
 
-The main idea of the smart home originated from the desire to make homes seem futuristic,
-however have now developed to also include tasks such as security and safety,
-both of which have become a large reason for the success of the smart home markets across the world.​
-Safety includes fire prevention and reaction, automation of the prevention of injury such as falls or slips,
-child safety, and more. ​
-Security includes locks, doorbells, cameras, alarms, motion sensors,
-and other ways to alert residents in the event of burglaries or threats against the home.​
-Many of the products bought for these purposes are pre-emptive,
-meaning they are bought in preparation for issues that could arise rather than reaction.
-​
-Historic Developments
+We have chosen our research point to be smart homes. Smart homes are a modern implementation in the real estate world and they are a new revolutionary development to transform modern day home life. ​
+​Smart homes are defined as homes that have additions to them that can improve quality of life dramatically, mainly by being connected to the Internet or interacting with other devices to manage day to day running of a home. ​
+​When the idea was first conceptualised it was related to very basic tasks however it has developed into what it is known for today, large amounts of internet connected devices that intertwine to collect data, actively monitor systems, change environment conditions or generally allow for easier home life. ​
 
-The idea took hold in 1963 when fault reporting systems were implemented
-in large industrial building units via the conventional electrical instillation. ​
-In 1991 this system entered personal homes where heating, cooling,
-ventilation and lighting were initiated by Berker, Jung, Gira, Merten and Siemens.
-In 2002, the first upscale luxury home was developed with smart systems where basic 
-home functions were automated in a more modern manner. ​
-By 2015 over a million homes were adapted to smart systems in Europe.
-Fast forward to the current day there are numerous inventions implemented into this
-broad invention, and developments are being constructed. ​
-In this research project we'll be focusing on middle eastern developments;
-we'll discuss over the societal and business side of things, the history of developments
-and ethical aspects too.​
+# Introduction (2)
+
+The main idea of the smart home originated from the desire to make homes seem futuristic, however have now developed to also include tasks such as security and safety, both of which have become a large reason for the success of the smart home markets across the world.​
+​Safety includes fire prevention and reaction, automation of the prevention of injury such as falls or slips, child safety, and more. ​
+​Security includes locks, doorbells, cameras, alarms, motion sensors, and other ways to alert residents in the event of burglaries or threats against the home.​
+​Most of the products bought for these purposes are pre-emptive, meaning they are bought in preparation for issues that could arise rather than reaction.​
+
+
+# Historic Developments
+
+​The idea took hold in 1963 when fault reporting systems were implemented in large industrial building units via conventional electrical instillation, although these systems did not have much interconnectedness and primarily relied on switches and basic alarms, they laid the groundwork for the future of smart homes.​
+In the 1970's buildings started to have dedicated automatic fire alarm systems where fire alarms could be automatically be triggered by smoke alarms or the activation of sprinkler systems, in addition to this ''Event driven'' reactions could start to take place due to the advent of microprocessors which allowed systems to react if there was an issue; for example closing air supply to a room if a fire is detected.​
+In 1991 this system entered personal homes where automated heating, cooling, ventilation and lighting systems were standardised by Berker, Jung, Gira, Merten and Siemens, the benefits of standardising the systems were that devices could interconnect and ''Talk'' to each other no matter the brand. This was especially important for the personal home over businesses who may have had less resources to troubleshoot.​
+
+In 2002, the first luxury homes were built and developed with smart systems where many of the home functions we see today were incorporated, this includes automatic opening and closing of shades, lamps and lights being able to be turned off and on and even dimmed, air conditioning, heating and more. This took us a step further as many of these systems could now be selected to turn on or off at certain times, react to the presence of people in rooms or simply add a technological flair to the houses to add to their ''luxury''. ​
+​By 2005 Screens and panels that could control all these systems centrally had been successfully implemented in some capacity.  Centrally in this sense refers to a single point of the house can control all systems, for example the lights in the bedroom could be controlled from downstairs or the air conditioning in the garage could be operated from the centre of the house.
 
 # first viewpoint
 
