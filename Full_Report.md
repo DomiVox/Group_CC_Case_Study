@@ -216,3 +216,9 @@ https://www.diva-portal.org/smash/get/diva2:1919600/FULLTEXT02.pdf
 https://academic.oup.com/innovateage/article/9/Supplement_2/igaf122.1193/8411593
 https://arxiv.org/html/2412.09813v1
 
+Adish
+https://consumer.ftc.gov/articles/securing-your-internet-connected-devices-home
+https://www.nist.gov/itl/applied-cybersecurity/nist-cybersecurity-iot-program/consumer-iot-cybersecurity
+https://link.springer.com/chapter/10.1007/978-3-031-81900-1_14
+https://www.sciencedirect.com/science/article/pii/S0747563223001218
+https://www.emergentmind.com/topics/ethical-smart-home-systems
