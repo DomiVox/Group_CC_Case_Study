@@ -85,7 +85,7 @@ Ethical Reflections ​
 
 Privacy ​
 
-Privacy in smart homes is an ethical concern because connected devices can collect a lot of information about people's routines inside their homes. Cameras, smart Tv's and thermostat can reveal when residents are at home and who visits them and how each of the rooms are being used. Even though these data can make devices more convenient, it may also expose peoples details that people never even wanted to share​
+Privacy in smart homes is an ethical concern because connected devices can collect a lot of information about people's routines inside their homes. Cameras, smart Tv's and thermostat can reveal when residents are at home and who visits them and how each of the rooms are being used. Even though these data can make devices more convenient, it may also expose peoples details that people never even wanted to share​. 
 
 Many users accept the terms and conditions without even fully reading the whole thing and without even understanding what is been collected from them and how long they are going to store this data or who else can access these data ​
 
