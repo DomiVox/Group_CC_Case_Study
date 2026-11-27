@@ -1,4 +1,4 @@
-The Evolution of Smart Homes
+## The Evolution of Smart Homes
 
 # Introduction
 
