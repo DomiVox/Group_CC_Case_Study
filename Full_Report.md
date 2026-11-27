@@ -37,6 +37,7 @@ they can manage and certain things at home without needing as much as help from 
 Overall, smart homes have a positive impact on society but there are still some challenges that
 need to be improved.​
 
+
 Second Viewpoint Analysis - Business
 
 In the business world, smart homes have made a fierce entry in the real estate market. Particularly in 
