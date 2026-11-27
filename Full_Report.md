@@ -84,19 +84,30 @@ Ethical Reflections and Improvements
 Ethical Reflections ​
 
 Privacy ​
-Smart home devices collect personal information about users, including their daily routines,
-activities and personal preferences. This creates privacy concerns, as users may not know 
-exactly what information is being collected, stored or shared with other companies.​
+
+Privacy in smart homes is an ethical concern because connected devices can collect a lot of information about people's routines inside their homes. Cameras, smart Tv's and thermostat can reveal when residents are at home and who visits them and how each of the rooms are being used. Even though these data can make devices more convenient, it may also expose peoples details that people never even wanted to share​
+
+Many users accept the terms and conditions without even fully reading the whole thing and without even understanding what is been collected from them and how long they are going to store this data or who else can access these data ​
+
+Privacy is also a shared issue when it comes to smart homes because the people who lives in the house, guests, and workers may be recorded without even choosing to using the device ​
+
+Companies need to explain data practices clearly and only collect what they needed to and give controls to the users to delete information or disable the recording. Smart home should provide the residences convenience without making people being watched in their own household.​
 
 Network Security​
-Smart home devices are connected to the internet, which can make them vulnerable to
-hackers and cyberattacks. If someone gains unauthorized access to these devices, they
-could most likely access the private information or take control of certain connected system.​
+
+Network security is important because the smart home devices are always on the internet and talking to each other. If your home network isn't secure then a hacker or a piece of malware could get in and access your personal data or even take over your devices. It's a bit of a scary thought really as you're in your own home and you'd expect to be safe.​
+
+Protecting a smart home shouldn't in any way require a degree in computer science. The companies that make the devices have a job to build security in them with regular software updates, clear setup instructions, and strong default security. The home owner/resident also has a part to play they could secure their accounts with  strong passwords, keeping the devices updated and securing the Wi-Fi.​
+
+Staying safe online shouldn't be entirely on the user, manufacturers should be upfront about the risks and should continue to provide security updates to their products for a reasonable period of time. Network safety is about much more than just stopping cyber attacks. It's about protecting people's privacy, their security and their peace of mind. Smart home technology is supposed to make life easier, not to make peoples life harder.​
+
 
 Physical safety​
-Smart home technology can create a physical safety risks if the device  are hacked,
-damaged or malfunction. For example, problems with smart locks, security cameras or
-heating systems could potentially put houseowners and their families in danger.
+Smart home devices can be a good thing they can provide safety and security but they can also be an issue if they fail. A smart lock can malfunction and leave you locked out of your own house. A faulty smoke detector could fail to give you an alarm in the case of a fire. Even a fairly simple piece of kit can be a hazard if it's not installed properly or if it's not maintained.​
+
+As they're going to be using the devices every day it makes perfect sense to have a backup. A physical key and/or knowing how to use the manual override would be useful in the event of the device going dead or losing its internet connection. It's absolutely critical that everyone in the house knows how to operate the key equipment, especially in an emergency.​
+
+Companies have to test their products properly, they have to be absolutely clear about any risks and they have to get rid of any safety issues as fast as possible. That's the whole point of smart technology isn't it? To make people safer. Not to remove the need for any safety whatsoever and then leave people totally exposed to the device if it fails.​
 
  
 Ethical Improvements of  Smart Homes 
